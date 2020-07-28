@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Escaping",
+            "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
+            "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
+            "relUrl": "/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
+            "date": " • Jul 28, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://awarischool.github.io/photo-colorization/about/",
