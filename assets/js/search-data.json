@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Crianças tomando sorvete no verão de Nova Iorque",
+            "content": ". Fonte da imagem: link | . !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-07-28 00:07:33-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-07-28 00:07:33 (63.2 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.redd.it/57ed044lifd51.jpg&#39; deo.colorize(url) .",
+            "url": "https://awarischool.github.io/photo-colorization/2020/08/03/post-criancas-sorvete.html",
+            "relUrl": "/2020/08/03/post-criancas-sorvete.html",
+            "date": " • Aug 3, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Social Distancing since 1969",
             "content": "Source of Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/02/Social-Distancing-1969.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Escaping",
             "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Pre-1920s",
             "content": "Example of image from Reddit (TheWayWeWere) . Source | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/blogpost-task.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Transforming Dalí",
             "content": "This image was found on Pinterest! . Source | . For my first introduction to data science, we reconstructed a black and white image into a colored one. We took Jason Antic&#39;s De-Oldify code which is a deep learning based project for restoring old images. In case you&#39;re not familiar with deep learning, it is a field within machine learning which mimics the human brain. Deep learning is the creation of a multi neural network architecture that is trained with millions of data points. This exercise demonstrates a fantastic application of the power of using deep learning. . Dal&#237; . The caption for this image is &quot;Dalí dans l&#39;eau, Port-Lligat (Jean Dieuzaide, 1953)&quot; which translates to Dalí in the water, Port-Lligat. I&#39;d say that the colorization has been done very well. The water is a beautiful blue - typical of what you would find in the Mediterranean Sea. I wonder if the flowers were actually this soft pink color. .",
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
