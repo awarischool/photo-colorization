@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "Title",
+            "content": ". Modern Times (1936) . Charlie Chaplin&#39;s movie:Factory worker on giant machine.Foto colorizada utilizando o DeolDiFy . toc: false | branch: master | badges: true | comments: true | author: Alan Oliveira | categories: [movie, charlie-chaplin] | . Fonte da imagem | .",
+            "url": "https://awarischool.github.io/photo-colorization/2020/08/03/modern-times.html",
+            "relUrl": "/2020/08/03/modern-times.html",
+            "date": " • Aug 3, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "São Paulo",
             "content": ". Fonte da Imagem: link text | .",
             "url": "https://awarischool.github.io/photo-colorization/fastpages/s%C3%A3o%20paulo/copan/2020/08/03/edificio-cosan-sp.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/criancas/sorvete/nova-iorque/2020/08/03/criancas-tomando-sorvete-versao-2.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Social Distancing since 1969",
             "content": "Source of Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/03/Social-Distancing-1969.html",
@@ -45,7 +56,7 @@
     
   
     
-        ,"post4": {
+        ,"post5": {
             "title": "Escaping",
             "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
@@ -56,7 +67,7 @@
     
   
     
-        ,"post5": {
+        ,"post6": {
             "title": "Pre-1920s",
             "content": "Example of image from Reddit (TheWayWeWere) . Source | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/blogpost-task.html",
@@ -67,7 +78,7 @@
     
   
     
-        ,"post6": {
+        ,"post7": {
             "title": "Transforming Dalí",
             "content": "This image was found on Pinterest! . Source | . For my first introduction to data science, we reconstructed a black and white image into a colored one. We took Jason Antic&#39;s De-Oldify code which is a deep learning based project for restoring old images. In case you&#39;re not familiar with deep learning, it is a field within machine learning which mimics the human brain. Deep learning is the creation of a multi neural network architecture that is trained with millions of data points. This exercise demonstrates a fantastic application of the power of using deep learning. . Dal&#237; . The caption for this image is &quot;Dalí dans l&#39;eau, Port-Lligat (Jean Dieuzaide, 1953)&quot; which translates to Dalí in the water, Port-Lligat. I&#39;d say that the colorization has been done very well. The water is a beautiful blue - typical of what you would find in the Mediterranean Sea. I wonder if the flowers were actually this soft pink color. .",
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
