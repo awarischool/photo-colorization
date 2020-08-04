@@ -24,6 +24,17 @@
   
     
         ,"post2": {
+            "title": "Title",
+            "content": "Modern Times (1936) . Charlie Chaplin&#39;s movie:Factory worker on giant machine.Foto colorizada utilizando o DeolDiFy . toc: false | branch: master | badges: true | comments: true | author: Alan Oliveira | categories: [movie, charlie-chaplin] | . Fonte da imagem | .",
+            "url": "https://awarischool.github.io/photo-colorization/2020/08/03/modern-times.html",
+            "relUrl": "/2020/08/03/modern-times.html",
+            "date": " • Aug 3, 2020"
+        }
+        
+    
+  
+    
+        ,"post3": {
             "title": "São Paulo",
             "content": ". Fonte da Imagem: link text | .",
             "url": "https://awarischool.github.io/photo-colorization/fastpages/s%C3%A3o%20paulo/copan/2020/08/03/edificio-cosan-sp.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/criancas/sorvete/nova-iorque/2020/08/03/criancas-tomando-sorvete-versao-2.html",
@@ -45,7 +56,7 @@
     
   
     
-        ,"post4": {
+        ,"post5": {
             "title": "Social Distancing since 1969",
             "content": "Source of Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/03/Social-Distancing-1969.html",
@@ -56,7 +67,7 @@
     
   
     
-        ,"post5": {
+        ,"post6": {
             "title": "Title",
             "content": ". Guerra do Contestado (22 de outubro de 1912 - Agosto de 1916) . Imagens colorizadas da Guerra do Contestado. A Guerra do Contestado foi um conflito armado que envolveu posseiros e pequenos proprietários de terras, de um lado, e representantes dos poderes estadual e federal brasileiro, de outro, numa região rica em erva-mate e madeira, disputada pelos estados do Paraná e de Santa Catarina. A região, marcada por muitos conflitos ligados a disputas de limites entre os dois estados, era conhecida como Contestado. Os camponeses haviam sido contratados para a construção de uma Estrada de Ferro, mas, com o término da obra, foram demitidos e expulsos da região do Contestado. Uma empresa estrangeira construiu uma madeireira, e os camponeses perderam a exploração de madeira como fonte de renda. Eles seguiram o messias José Maria – um líder religioso da Revolta – à procura de salvação. . toc:false- branch: master | badges: true | comments: true | author: Felipe M Neves | categories: [Guerra, História do Brasil] | . O trem acelerou o processo de desmatamento do Contestado e foi o ponta-pé inicial para a guerra. Além dos 15 quilômetros de terras de cada lado da ferrovia, que a empresa Lumber ganhou do governo, comprou ainda uma área de 180 mil hectares de terra para cortar a madeira. Uma área, em termos de comparação, equivalente ao Parque Nacional do Iguaçu. Foto por Claro Jansson (1877-1954) - Fonte. | . Forças legais defendendo a Serraria Lumber, em Três Barras. A Lumber fez barricadas para proteger a maior fábrica da América do Sul contra os sertanejos - Fonte. | . O messias. Conhecido como José Maria ou José Maria de Santo Agostinho, era um místico brasileiro do Estado de Santa Catarina. Em 1911, começou a pregar contra o Estado Brasileiro. José Maria foi morto em 22 de outubro de 1912 quando as suas forças rebeldes lutaram contra os militares em Banhado Grande. Porém a batalha resultou numa vitória para os seus seguidores, que declararam uma &quot;guerra santa&quot; (Guerra do Contestado) e acreditavam que ele iria ressuscitar. - Fonte. | . Guerra com música. Em Ouro Verde, 1917, Sertanejos, com suas armas, violão e sanfona. Foto por Claro Jansson (1877-1954) - Fonte. | . Um olhar para o passado. Em Três Barras, a serraria continuou sua rotina ainda por muitos anos, deixando para trás os tempos em que seus seguranças eram treinados, com armamentos, para se defender dos sertanejos que ameaçam queimar suas instalações. Foto por Claro Jansson (1877-1954) - Fonte. | .",
             "url": "https://awarischool.github.io/photo-colorization/2020/08/03/Guerra-do-Contestado.html",
@@ -67,7 +78,7 @@
     
   
     
-        ,"post6": {
+        ,"post7": {
             "title": "Escaping",
             "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
@@ -78,7 +89,7 @@
     
   
     
-        ,"post7": {
+        ,"post8": {
             "title": "Pre-1920s",
             "content": "Example of image from Reddit (TheWayWeWere) . Source | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/blogpost-task.html",
@@ -89,7 +100,7 @@
     
   
     
-        ,"post8": {
+        ,"post9": {
             "title": "Transforming Dalí",
             "content": "This image was found on Pinterest! . Source | . For my first introduction to data science, we reconstructed a black and white image into a colored one. We took Jason Antic&#39;s De-Oldify code which is a deep learning based project for restoring old images. In case you&#39;re not familiar with deep learning, it is a field within machine learning which mimics the human brain. Deep learning is the creation of a multi neural network architecture that is trained with millions of data points. This exercise demonstrates a fantastic application of the power of using deep learning. . Dal&#237; . The caption for this image is &quot;Dalí dans l&#39;eau, Port-Lligat (Jean Dieuzaide, 1953)&quot; which translates to Dalí in the water, Port-Lligat. I&#39;d say that the colorization has been done very well. The water is a beautiful blue - typical of what you would find in the Mediterranean Sea. I wonder if the flowers were actually this soft pink color. .",
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
