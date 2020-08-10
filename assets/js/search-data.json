@@ -4,15 +4,37 @@
         "post0": {
             "title": "Social Distancing since 1969",
             "content": "Source of Image | .",
-            "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/08/Social-Distancing-1969.html",
-            "relUrl": "/reddit/thewaywewere/2020/08/08/Social-Distancing-1969.html",
-            "date": " • Aug 8, 2020"
+            "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/09/Social-Distancing-1969.html",
+            "relUrl": "/reddit/thewaywewere/2020/08/09/Social-Distancing-1969.html",
+            "date": " • Aug 9, 2020"
         }
         
     
   
     
         ,"post1": {
+            "title": "Momento da minha vida",
+            "content": ". fonte da imagem: link | . !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-09 23:02:30-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-09 23:02:31 (45.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclus&#227;o: . Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
+            "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/08/09/.html",
+            "relUrl": "/casamento/datascience/2020/08/09/.html",
+            "date": " • Aug 9, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "Momento da minha vida",
+            "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-07 09:41:19-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-07 09:41:19 (41.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclusão:Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
+            "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/08/07/melhores-momentosv3.html",
+            "relUrl": "/casamento/datascience/2020/08/07/melhores-momentosv3.html",
+            "date": " • Aug 7, 2020"
+        }
+        
+    
+  
+    
+        ,"post3": {
             "title": "Ellie's pic for fans",
             "content": ". deoldify .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as,/sorvete/2020/08/06/ellie-the-last-of-us.html",
@@ -23,7 +45,7 @@
     
   
     
-        ,"post2": {
+        ,"post4": {
             "title": "Meninos no parque da cidade",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as/domingo/parque/2020/08/05/meninos_no_parque.html",
@@ -34,7 +56,7 @@
     
   
     
-        ,"post3": {
+        ,"post5": {
             "title": "Elis Regina e Adoniran Barbosa na Padaria Real, São Paulo",
             "content": ". Fonte: Cultura Estadão . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! .",
             "url": "https://awarischool.github.io/photo-colorization/musica/mpb/2020/08/04/Elis-Regina-E-Adoniran-Barbosa.html",
@@ -45,7 +67,7 @@
     
   
     
-        ,"post4": {
+        ,"post6": {
             "title": "crianças tomando sorvete no verão de Nova Iorque",
             "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-03 22:09:48-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-03 22:09:48 (49.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from google.colab import drive drive.mount(&#39;/content/drive&#39;) . deoldify . from deoldify_wrapper import DeOldify .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as,/sorvete/2020/08/03/post_no_blog.html",
@@ -56,7 +78,7 @@
     
   
     
-        ,"post5": {
+        ,"post7": {
             "title": "Fotos antigas de futebol",
             "content": ". Futebol no s&#233;culo 19 . Pode-se notar que o esporte era muito diferente na &#233;poca... . Fonte da foto: Desconhecida. Obtida no blog talksport | . Fergus Suter . Nascido na Esc&#243;cia em 1857, Fergus &#233; considerado o primeiro jogador profissional de futebol da hist&#243;ria. . Foto tirada entre 1880 e 1889. . | Fonte da foto: Desconhecida. Obtida na wikipedia . | . Friedenreich . J&#225; no Brasil, uma das primeiras estrelas do futebol foi Friedenreich (&#224; esquerda na foto, ao lado do palmeirense Heitor). . Foto tirada em 1931, quando Friedenreich foi campeão paulista pelo São Paulo . | Fonte da foto: Gazeta Esportiva. Obtida em Tardes de pacaembu . | . Sele&#231;&#227;o Brasileira . Foto mostrando a sele&#231;&#227;o campe&#227; do mundo em 1958. Pel&#233; est&#225; agachado ao centro. . Fonte da foto: Arquivo CBF. Obtida no Site da CBF | . Gordon Banks . Considerado um dos maiores goleiros da hist&#243;ria, Banks aparece na foto agarrando um cachorro que invadiu o campo em 1965. . Fonte da foto: Getty images. Obtida do telegraph | .",
             "url": "https://awarischool.github.io/photo-colorization/futebol/2020/08/03/post_futebol.html",
@@ -67,7 +89,7 @@
     
   
     
-        ,"post6": {
+        ,"post8": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | . !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-07-28 00:07:33-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-07-28 00:07:33 (63.2 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.redd.it/57ed044lifd51.jpg&#39; deo.colorize(url) .",
             "url": "https://awarischool.github.io/photo-colorization/2020/08/03/post-criancas-sorvete.html",
@@ -78,7 +100,7 @@
     
   
     
-        ,"post7": {
+        ,"post9": {
             "title": "Modern Times (1936)",
             "content": "Fonte da imagem | .",
             "url": "https://awarischool.github.io/photo-colorization/movie/charlie-chaplin/2020/08/03/modern-times.html",
@@ -89,7 +111,7 @@
     
   
     
-        ,"post8": {
+        ,"post10": {
             "title": "São Paulo",
             "content": ". Fonte da Imagem: link text | .",
             "url": "https://awarischool.github.io/photo-colorization/fastpages/s%C3%A3o%20paulo/copan/2020/08/03/edificio-cosan-sp.html",
@@ -100,7 +122,7 @@
     
   
     
-        ,"post9": {
+        ,"post11": {
             "title": "Crise de 1929",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/finan%C3%A7as/crise-economica/2020/08/03/crise-de-1929.html",
@@ -111,7 +133,7 @@
     
   
     
-        ,"post10": {
+        ,"post12": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/criancas/sorvete/nova-iorque/2020/08/03/criancas-tomando-sorvete-versao-2.html",
@@ -122,7 +144,7 @@
     
   
     
-        ,"post11": {
+        ,"post13": {
             "title": "Guerra do Contestado (22 de outubro de 1912 - Agosto de 1916)",
             "content": "O trem acelerou o processo de desmatamento do Contestado e foi o ponta-pé inicial para a guerra. Além dos 15 quilômetros de terras de cada lado da ferrovia, que a empresa Lumber ganhou do governo, comprou ainda uma área de 180 mil hectares de terra para cortar a madeira. Uma área, em termos de comparação, equivalente ao Parque Nacional do Iguaçu. Foto por Claro Jansson (1877-1954) - Fonte. | . Forças legais defendendo a Serraria Lumber, em Três Barras. A Lumber fez barricadas para proteger a maior fábrica da América do Sul contra os sertanejos - Fonte. | . O messias. Conhecido como José Maria ou José Maria de Santo Agostinho, era um místico brasileiro do Estado de Santa Catarina. Em 1911, começou a pregar contra o Estado Brasileiro. José Maria foi morto em 22 de outubro de 1912 quando as suas forças rebeldes lutaram contra os militares em Banhado Grande. Porém a batalha resultou numa vitória para os seus seguidores, que declararam uma &quot;guerra santa&quot; (Guerra do Contestado) e acreditavam que ele iria ressuscitar. - Fonte. | . Guerra com música. Em Ouro Verde, 1917, Sertanejos, com suas armas, violão e sanfona. Foto por Claro Jansson (1877-1954) - Fonte. | . Um olhar para o passado. Em Três Barras, a serraria continuou sua rotina ainda por muitos anos, deixando para trás os tempos em que seus seguranças eram treinados, com armamentos, para se defender dos sertanejos que ameaçam queimar suas instalações. Foto por Claro Jansson (1877-1954) - Fonte. | .",
             "url": "https://awarischool.github.io/photo-colorization/guerra/hist%C3%B3ria%20do%20brasil/2020/08/03/Guerra-do-Contestado.html",
@@ -133,7 +155,7 @@
     
   
     
-        ,"post12": {
+        ,"post14": {
             "title": "Ancient Trees",
             "content": "Ancient Trees: Standing firm amidst life&#39;s storms . Source: Bored Panda | .",
             "url": "https://awarischool.github.io/photo-colorization/boredpanda/ancienttrees/2020/07/31/colorizing-ancient-trees.html",
@@ -144,7 +166,7 @@
     
   
     
-        ,"post13": {
+        ,"post15": {
             "title": "Escaping",
             "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
@@ -155,7 +177,7 @@
     
   
     
-        ,"post14": {
+        ,"post16": {
             "title": "Pre-1920s",
             "content": "Example of image from Reddit (TheWayWeWere) . Source | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/blogpost-task.html",
@@ -166,12 +188,23 @@
     
   
     
-        ,"post15": {
+        ,"post17": {
             "title": "Transforming Dalí",
             "content": "This image was found on Pinterest! . Source | . For my first introduction to data science, we reconstructed a black and white image into a colored one. We took Jason Antic&#39;s De-Oldify code which is a deep learning based project for restoring old images. In case you&#39;re not familiar with deep learning, it is a field within machine learning which mimics the human brain. Deep learning is the creation of a multi neural network architecture that is trained with millions of data points. This exercise demonstrates a fantastic application of the power of using deep learning. . Dal&#237; . The caption for this image is &quot;Dalí dans l&#39;eau, Port-Lligat (Jean Dieuzaide, 1953)&quot; which translates to Dalí in the water, Port-Lligat. I&#39;d say that the colorization has been done very well. The water is a beautiful blue - typical of what you would find in the Mediterranean Sea. I wonder if the flowers were actually this soft pink color. .",
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
             "relUrl": "/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
             "date": " • Jul 28, 2020"
+        }
+        
+    
+  
+    
+        ,"post18": {
+            "title": "Momento da minha vida",
+            "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-07 09:41:19-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-07 09:41:19 (41.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclusão:Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
+            "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/07/08/melhor-momentoV2.html",
+            "relUrl": "/casamento/datascience/2020/07/08/melhor-momentoV2.html",
+            "date": " • Jul 8, 2020"
         }
         
     
