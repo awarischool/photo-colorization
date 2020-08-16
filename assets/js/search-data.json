@@ -4,9 +4,9 @@
         "post0": {
             "title": "Social Distancing since 1969",
             "content": "Source of Image | .",
-            "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/09/Social-Distancing-1969.html",
-            "relUrl": "/reddit/thewaywewere/2020/08/09/Social-Distancing-1969.html",
-            "date": " • Aug 9, 2020"
+            "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/08/15/Social-Distancing-1969.html",
+            "relUrl": "/reddit/thewaywewere/2020/08/15/Social-Distancing-1969.html",
+            "date": " • Aug 15, 2020"
         }
         
     
@@ -194,17 +194,6 @@
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
             "relUrl": "/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
             "date": " • Jul 28, 2020"
-        }
-        
-    
-  
-    
-        ,"post18": {
-            "title": "Momento da minha vida",
-            "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-07 09:41:19-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-07 09:41:19 (41.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclusão:Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
-            "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/07/08/melhor-momentoV2.html",
-            "relUrl": "/casamento/datascience/2020/07/08/melhor-momentoV2.html",
-            "date": " • Jul 8, 2020"
         }
         
     
