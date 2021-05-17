@@ -46,6 +46,17 @@
   
     
         ,"post4": {
+            "title": "Colorizing Lunch atop a Skyscraper",
+            "content": ". One of New York most iconic photos . Lunch atop a Skyscraper is certainly one of the most famous photos of all time. It is the Corbis photo agency’s most reproduced image. For a company that also owned images of 20th century icons like Albert Einstein and Martin Luther King Jr., that’s really impressive!! . The photograph was taken on September 20, 1932, on the 69th floor of the RCA Building during the last months of construction. Although the the photo was pre-arranged by Rockfeller Center to promote its newest skyscraper, these are real ironworkers more than 250 meters(!!) above Manhattan. There were no Hollywood special effects or camera tricks here. However, John Anderson argued that the photo was not so dangeorus. According to him, there was a perfectly safe and finished floor below the men, but out of the picture. . Little is known about the people involved in this masterpiece, despite its fame. There is uncertainty about who took the picture, althouhg it was recently credited to Charles C. Ebbets. Besides, only two of the ironworkers were identified: Joseph Eckner (the third from the left) and Joe Curtis (third from the right). The names of the other nine men are still unknown. . Therefore, I decided to use this iconic picture in my project. I use Jason Antic&#39;s De-Oldify code which is a deep learning based project to colorize and restore old images and film footage. In case you are interested, you can check out the project here. . The image used in this project was retrieved from Wikipedia. . The quality of the colorized photo is really impressive, don&#39;t you think? I could find only a few spots were the colors looked odd. Congratulations to mr. Antic!! . I hope you enjoyed this project as much as I did! .",
+            "url": "https://awarischool.github.io/photo-colorization/new%20york/1930s/skyscraper/2021/05/13/Colorizing-Lunch-atop-a-skyscraper.html",
+            "relUrl": "/new%20york/1930s/skyscraper/2021/05/13/Colorizing-Lunch-atop-a-skyscraper.html",
+            "date": " • May 13, 2021"
+        }
+        
+    
+  
+    
+        ,"post5": {
             "title": "TESTANDO COLORIZADOR",
             "content": ". deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.7/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.7/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) /usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary. cpuset_checked)) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . Achei a foto legal para colocar no exercício . Com renderização 40 ficou muito boa .",
             "url": "https://awarischool.github.io/photo-colorization/fastpages/jupyter/2021/05/12/foto-barco.html",
@@ -56,7 +67,7 @@
     
   
     
-        ,"post5": {
+        ,"post6": {
             "title": "Testando o fast pages",
             "content": ". Apenas demonstrando o fastpages . Vamos ver como é fácil transformar um notebook em blog post! . Viu só como é fácil? .",
             "url": "https://awarischool.github.io/photo-colorization/leao/black_and_white/2021/05/12/blog-post-do-leao.html",
@@ -67,7 +78,7 @@
     
   
     
-        ,"post6": {
+        ,"post7": {
             "title": "Title",
             "content": ". A Woman . &quot;A Woman&quot; . categories:[fastpages, jupyter] | . image: https://i.redd.it/yz5bnr961px61.jpg | . Criando uma mini interface usando widgets: . source_url = &#39;https://i.redd.it/yz5bnr961px61.jpg&#39; #@param {type:&quot;string&quot;} render_factor = 10 #@param {type: &quot;slider&quot;, min: 7, max: 40} if source_url is not None and source_url !=&#39;&#39;: output = deo.colorize(filepath_or_url=source_url, render_factor=render_factor) else: print(&#39;Provide an image url and try again.&#39;) .",
             "url": "https://awarischool.github.io/photo-colorization/2021/05/12/Woman.html",
@@ -78,7 +89,7 @@
     
   
     
-        ,"post7": {
+        ,"post8": {
             "title": "Testando o fast pages",
             "content": ". Rockfeller . John Davison Rockefeller (Richford, 8 de julho de 1839 – Ormond Beach, 23 de maio de 1937) foi um magnata dos negócios e filantropo americano. Ele é muito conhecido como, o americano mais rico de todos os tempos, e a pessoa mais rica da história moderna. . Com Rockfeller, o petr&#243;leo virou arte . Rockefeller foi o homem mais poderoso de seu tempo — seus descendentes souberam transformar aquele poder todo num vasto legado artístico. . É difícil, hoje em dia, compreender a magnitude de seu poder. Sua Standard Oil tinha o virtual monopólio da indústria de petróleo nos Estados Unidos — e esse monopólio, claro, foi construído na marra. Rockefeller acabou entrando para a história como um dos “robber barons”, termo que, traduzido livremente, significa algo como “magnatas ladrões . deo.colorize(&#39;https://www.aboutpipelines.com/wp-content/uploads/2016/05/na-4859-7.jpg&#39;, render_factor=50 ) . Empresas e Fortuna . Em 1878, John Rockefeller controlava cerca de 90 % das refinarias de petróleo dos Estados Unidos. Em 1882 fundou a Standard Oil Trust, a primeira empresa de trust do mundo. Declarado monopólio ilegal e obrigado a ser dissolvido, pelo Tribunal Superior de Justiça de Ohio, o processo só chegou ao fim em 1899. Nesse mesmo ano, ele estabeleceu a Standard Oil Company em Nova Jersey, sendo seu presidente até 1911. A empresa foi obrigada a se desmembrar em várias corporações por ordem do Tribunal de Justiça dos Estados Unidos. . deo.colorize(&#39;https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/05/25/5f15efd4e40c5.jpeg&#39;, render_factor=50 ) . Possuindo uma das maiores fortunas do mundo, dedicou-se, em seus últimos anos, à filantropia. Doou boa parte dela a várias instituições, principalmente à Universidade de Chicago, e morreu em Ormond Beach, Flórida. Graças às suas doações, foi fundada (1901), em Nova Yorque, o Instituto Rockefeller, organismo cujos cientistas dedicavam-se a pesquisas médicas. . deo.colorize(&#39;https://photovault.com/data/resize/800x550/IPO/IPOV04P05_19.jpg?49e3b2b0fe76a5bfc8dd5e5291cec8f3&#39;, render_factor=50 ) .",
             "url": "https://awarischool.github.io/photo-colorization/historia/petr%C3%B3leo/2021/05/12/Rockfeller.html",
@@ -89,7 +100,7 @@
     
   
     
-        ,"post8": {
+        ,"post9": {
             "title": "Testando o fast pages",
             "content": ". Apenas demonstrando o fastpages . Vamos ver como é fácil transformar um notebook em blog post! . Viu só como é fácil? .",
             "url": "https://awarischool.github.io/photo-colorization/leao/black_and_white/2021/05/12/Post-do-leao-exemplo.html",
@@ -100,7 +111,7 @@
     
   
     
-        ,"post9": {
+        ,"post10": {
             "title": "1965 - Um jovem e sua esposa grávida em Washington Square Park",
             "content": ". Nova se&#231;&#227;o .",
             "url": "https://awarischool.github.io/photo-colorization/1965/washington%20square%20park/2021/04/11/jovem-casal-washington-1965.html",
@@ -111,7 +122,7 @@
     
   
     
-        ,"post10": {
+        ,"post11": {
             "title": "Firemen in 1909",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/firemen/vancouver/2021/04/08/firemen-1909.html",
@@ -122,7 +133,7 @@
     
   
     
-        ,"post11": {
+        ,"post12": {
             "title": "Marinheiros de 1940",
             "content": "",
             "url": "https://awarischool.github.io/photo-colorization/world%20war/marinha/2021/04/07/marinheiros-1940.html",
@@ -133,7 +144,7 @@
     
   
     
-        ,"post12": {
+        ,"post13": {
             "title": "Foto antiga de um mirante no Rio de Janeiro",
             "content": ". !wget = https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py . --2021-04-07 22:16:24-- http://=/ Resolving = (=)... failed: Name or service not known. wget: unable to resolve host address ‘=’ --2021-04-07 22:16:24-- https://raw.githubusercontent.com/awarischool/data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.110.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2623 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py.1’ deoldify_wrapper.py 100%[===================&gt;] 2.56K --.-KB/s in 0s 2021-04-07 22:16:24 (52.7 MB/s) - ‘deoldify_wrapper.py.1’ saved [2623/2623] FINISHED --2021-04-07 22:16:24-- Total wall clock time: 0.1s Downloaded: 1 files, 2.6K in 0s (52.7 MB/s) .",
             "url": "https://awarischool.github.io/photo-colorization/world%20war/marinha/2021/04/07/foto-antiga-rio-de-janeiro.html",
@@ -144,7 +155,7 @@
     
   
     
-        ,"post13": {
+        ,"post14": {
             "title": "Brazil 1950",
             "content": "deo.colorize(&#39;https://i.redd.it/tbfuuujvalr61.jpg&#39;) .",
             "url": "https://awarischool.github.io/photo-colorization/brasil/casamento/2021/04/07/brasil-1950.html",
@@ -155,7 +166,7 @@
     
   
     
-        ,"post14": {
+        ,"post15": {
             "title": "Bertrand Russell",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/bertrand/russell/2021/04/07/bertrand-russell.html",
@@ -166,7 +177,7 @@
     
   
     
-        ,"post15": {
+        ,"post16": {
             "title": "Vovó, Titio e Papai: 1955",
             "content": "",
             "url": "https://awarischool.github.io/photo-colorization/familia/av%C3%B3/amigos/2021/03/31/Avo.html",
@@ -177,7 +188,7 @@
     
   
     
-        ,"post16": {
+        ,"post17": {
             "title": "Nova York vista de cima, Empire State Building",
             "content": "",
             "url": "https://awarischool.github.io/photo-colorization/empire%20state/nova-iorque/vis%C3%A3o%20de%20cima/2021/03/16/new-york-colorize.html",
@@ -190,7 +201,7 @@
     
   
     
-        ,"post18": {
+        ,"post19": {
             "title": "<b>"7 Samurai (Os 7 samurais) - 1954" </b>",
             "content": "Deoldify utiliza Deep Learning pré-treinado . Como funciona . A tecnologia de colorização de fotos que alimenta esse recurso foi licenciada pelo MyHeritage da DeOldify , criada pelos engenheiros de software Jason Antic e Dana Kelley . Uma versão inicial da tecnologia DeOldify foi disponibilizada por Antic para o domínio público em novembro de 2018. Antic e Kelley a atualizaram em maio de 2019. Desde então, eles continuaram a melhorar e ajustar a tecnologia comercialmente. Sua versão mais recente produz fotos coloridas de qualidade sem precedentes e atualmente é exclusiva do MyHeritage. . #hiden_input foto_7_samurai = &#39;https://septimaes.files.wordpress.com/2018/09/1-seven-samurai.jpg?w=863&#39; deo.colorize(foto_7_samurai) . Sinopse do Filme: 7 Samurai . Durante o Japão feudal do século XVI, um velho samurai chamado Kambei (Takashi Shimura) é contratado para defender uma aldeia indefesa que é constantemente saqueada por bandidos. Contando com a ajuda de outros seis samurais, Kambei treina os moradores para resistirem a um novo ataque iminente. ‘Seven Samurai’ é o culminar e o auge da carreira de Akira Kurosawa, com pouco mais de três horas e dividido em três partes, o filme traz não apenas uma recriação do caos político e social do Japão no século XVI, mas também um desfile de valores pessoais e comunitários baseados na aceitação, reconhecimento, empenho e trabalho. O filme vai muito além da jornada épica de uma vila para libertar-se dos salteadores que lhes pilhava a maior parte das colheitas. A contratação dos samurais pelos aldeões e todo o desenrolar da estadia destes na vila é um caminho para a aprendizagem, consistindo num tempo de adaptações psicológicas e físicas para ambos os lados. Esta obra-prima do cinema clássico foi nomeada para dois Óscares da Academia em 1957 e venceu o Leão de Prata no Festival Internacional de Cinema de Veneza em 1954. Mais tarde, Hollywood produziu um remake adaptado para western chamado ‘Os Sete Magnificos’, em 1960 e em 2016. . Fonte da imagem: Septima: Classicos do cinema japones e mundial .",
             "url": "https://awarischool.github.io/photo-colorization/filme/samurais/deoldify/diretor/kurosawa/2021/03/10/7_samurai_1954.html",
@@ -201,7 +212,7 @@
     
   
     
-        ,"post19": {
+        ,"post20": {
             "title": "Dona do bar (promovida) na Segunda Avenida com a 33 (NY), em 1952",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/bar/nova-iorque/segunda-avenida/mulher/2021/03/08/dona-do-bar.html",
@@ -220,7 +231,7 @@
     
   
     
-        ,"post24": {
+        ,"post25": {
             "title": "Australia in the 50s",
             "content": ". Sydney Opera House . Building history . Economist Article | .",
             "url": "https://awarischool.github.io/photo-colorization/australia/colorization/2021/02/18/Colorizing-Sydney.html",
@@ -237,7 +248,7 @@
     
   
     
-        ,"post28": {
+        ,"post29": {
             "title": "Colorização de fotos diversas",
             "content": ". ## Paisagem natural . O resultado é satisfatório. Paisagens naturais, em geral, são melhores colorizadas, provavelmente pelas características do treinamento do modelo e por um certo padrão deste tipo de imagem (céu azul, nuvens, mata esverdeada, água refletindo céu). . Animais . Observa-se que a colorização é pouco fiel a de uma arara e de uma iguana. Talvez por se tratar de fotos com ângulos bastante específicos de algo específico (é de se imaginar que haja poucas variantes de araras e iguanas para treinamento). . Abstrato . Provavelmete, a imagem nem é uma foto, mas uma ilustração. Casos assim têm pouca correspondência com a realidade e, provavelmente, poucos exemplos para treinamento. . Fonte das imagens: . https://s3.amazonaws.com/pixpa.com/com/articles/1542633307-324718-erico-marcelino-235177-unsplashjpg.png . | https://cdn.cambridgeincolour.com/images/tutorials/bw_parrot-green.jpg . | https://www.gimp.org/tutorials/Color2BW/after-384x288.jpg . | https://mymodernmet.com/wp/wp-content/uploads/2017/11/black-and-white-photography-jason-m-peterson-16.jpg . | https://petapixel.com/assets/uploads/2014/11/ansel1.jpg . | .",
             "url": "https://awarischool.github.io/photo-colorization/awari/colorize/2021/02/11/colorizacao-de-fotos-diversas.html",
@@ -248,7 +259,7 @@
     
   
     
-        ,"post29": {
+        ,"post30": {
             "title": "Colorização Aruana SemanaII",
             "content": ". #hide_input . deo.colorize(&#39;https://i.imgur.com/a4BjEEg.jpg&#39;) .",
             "url": "https://awarischool.github.io/photo-colorization/sebrae/2020/12/17/Aruana.html",
@@ -259,7 +270,7 @@
     
   
     
-        ,"post30": {
+        ,"post31": {
             "title": "Title",
             "content": "deo.colorize(&#39;https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/04/Royal-BW-e547.jpg&#39;) .",
             "url": "https://awarischool.github.io/photo-colorization/2020/12/15/teste.html",
@@ -270,7 +281,7 @@
     
   
     
-        ,"post31": {
+        ,"post32": {
             "title": "Ponte Estaiada",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/cidade/2020/12/15/estaiada.html",
@@ -281,7 +292,7 @@
     
   
     
-        ,"post32": {
+        ,"post33": {
             "title": "Obra de Leonardo da Vinci",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/arte/2020/12/15/Colorazicao-da-Vinci.html",
@@ -292,7 +303,7 @@
     
   
     
-        ,"post33": {
+        ,"post34": {
             "title": "Title",
             "content": "from deoldify_wrapper import DeOldify . Importing Libraries No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Importing Libraries . /content/deoldify_wrapper.py:36: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Installing Colab requirements... Importing DeOldify Visualize module and FastAI Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . !wget https://i.redd.it/is6umhrjh2361.jpg . --2020-12-15 16:32:08-- https://i.redd.it/is6umhrjh2361.jpg Resolving i.redd.it (i.redd.it)... 151.101.1.140, 151.101.65.140, 151.101.129.140, ... Connecting to i.redd.it (i.redd.it)|151.101.1.140|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 494110 (483K) [image/jpeg] Saving to: ‘is6umhrjh2361.jpg’ is6umhrjh2361.jpg 100%[===================&gt;] 482.53K --.-KB/s in 0.05s 2020-12-15 16:32:08 (9.48 MB/s) - ‘is6umhrjh2361.jpg’ saved [494110/494110] . deo.colorize(&#39;https://i.redd.it/is6umhrjh2361.jpg&#39;) .",
             "url": "https://awarischool.github.io/photo-colorization/2020/12/14/Gabriel-Aula02.html",
@@ -303,7 +314,7 @@
     
   
     
-        ,"post34": {
+        ,"post35": {
             "title": "Colorização Balão",
             "content": ". --2020-12-15 02:41:11-- https://coisasquegosto.files.wordpress.com/2009/01/51.jpg Resolving coisasquegosto.files.wordpress.com (coisasquegosto.files.wordpress.com)... 192.0.72.24, 192.0.72.25 Connecting to coisasquegosto.files.wordpress.com (coisasquegosto.files.wordpress.com)|192.0.72.24|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 63309 (62K) [image/jpeg] Saving to: ‘51.jpg’ 51.jpg 100%[===================&gt;] 61.83K --.-KB/s in 0.04s 2020-12-15 02:41:11 (1.61 MB/s) - ‘51.jpg’ saved [63309/63309] .",
             "url": "https://awarischool.github.io/photo-colorization/paisagem/bal%C3%A3o/2020/12/14/Color_Baloon.html",
@@ -314,7 +325,7 @@
     
   
     
-        ,"post35": {
+        ,"post36": {
             "title": "Charlie Chaplin",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/movies/filmes/2020/12/14/Charlie-Aula02.html",
@@ -325,7 +336,7 @@
     
   
     
-        ,"post36": {
+        ,"post37": {
             "title": "Conferência de Solvay",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/ci%C3%AAncia/2020/12/10/solvay.html",
@@ -336,7 +347,7 @@
     
   
     
-        ,"post37": {
+        ,"post38": {
             "title": "The Romanovs",
             "content": ". from google.colab import drive drive.mount(&#39;/content/drive&#39;) . Photo Source: The Romanov Family .",
             "url": "https://awarischool.github.io/photo-colorization/data%20science/neural%20networks/ai/2020/12/10/romanovs.html",
@@ -347,7 +358,7 @@
     
   
     
-        ,"post38": {
+        ,"post39": {
             "title": "Queen",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/music/2020/12/10/queen.html",
@@ -358,7 +369,7 @@
     
   
     
-        ,"post39": {
+        ,"post40": {
             "title": "Seleção de Futebol da França de 1900",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/futebol/2020/12/10/franca_futebol.html",
@@ -369,7 +380,7 @@
     
   
     
-        ,"post40": {
+        ,"post41": {
             "title": "Colorização de foto",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/rede%20neural/2020/12/10/colorize.html",
@@ -380,7 +391,7 @@
     
   
     
-        ,"post41": {
+        ,"post42": {
             "title": "Arcos da Lapa",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/cidade/2020/12/10/arcosdalapa.html",
@@ -391,7 +402,7 @@
     
   
     
-        ,"post42": {
+        ,"post43": {
             "title": "Conferencia de Solvay",
             "content": ". from deoldify_wrapper import DeOldify . !wget https://i.imgur.com/pxw5ga3.jpg . deo.colorize( &#39;https://i.imgur.com/pxw5ga3.jpg&#39;, render_factor=50 ) .",
             "url": "https://awarischool.github.io/photo-colorization/2020/12/10/Solvay.html",
@@ -402,7 +413,7 @@
     
   
     
-        ,"post43": {
+        ,"post44": {
             "title": "Phan Thi Kim Phúc",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/ciencia/2020/12/10/PhanThiKim.html",
@@ -413,7 +424,7 @@
     
   
     
-        ,"post44": {
+        ,"post45": {
             "title": "Unicef premia foto (preto e branco) de menina em favela do Haiti",
             "content": "",
             "url": "https://awarischool.github.io/photo-colorization/photo/2020/12/10/G1Mundo-JH.html",
@@ -424,7 +435,7 @@
     
   
     
-        ,"post45": {
+        ,"post46": {
             "title": "Title",
             "content": ". Meu primeiro trabalho de ci&#234;ncia de dados . &quot;Colorização de uma imagem que retrata a Times Square em Nova Iorque em 1919 usando a rede neural DeOldify . toc:false | branch: master | badges: true | comments: false | categories: [cidades] | .",
             "url": "https://awarischool.github.io/photo-colorization/2020/12/10/ColorirFotosPretoEBranco.html",
@@ -435,7 +446,7 @@
     
   
     
-        ,"post46": {
+        ,"post47": {
             "title": "Sufragistas nos EUA",
             "content": "Imagem 1 .",
             "url": "https://awarischool.github.io/photo-colorization/feminism/2020/12/08/sufragistas.html",
@@ -446,7 +457,7 @@
     
   
     
-        ,"post47": {
+        ,"post48": {
             "title": "Momento da minha vida",
             "content": ". fonte da imagem: link | . !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-09 23:02:30-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-09 23:02:31 (45.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclus&#227;o: . Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
             "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/08/09/.html",
@@ -457,7 +468,7 @@
     
   
     
-        ,"post48": {
+        ,"post49": {
             "title": "Momento da minha vida",
             "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-07 09:41:19-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-07 09:41:19 (41.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . Trying to import DeOldify (if installed) No module named &#39;deoldify&#39; DeOldify not found, installing.. Cloning DeOldify Repository... Opening DeOldify Folder Installing Colab requirements... Importing DeOldify . /content/deoldify_wrapper.py:42: UserWarning: WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings warnings.warn(&#39;WARNING: GPU not available. Activate it on Colab at Edit &gt; Notebook Settings&#39;) . Downloading Colorizer Model . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.imgur.com/ziXRlN6.jpg&#39; deo.colorize(url) . foto original . Conclusão:Como é possível verificar ficou muito bom mas ha algumas diferenças entre a foto original colorida e a foto colorizada pela aplicação ela ficou parecendo um filtro de envelhecimento de fotos que encontramos no celular.Um desses motivos foi o fato de eu ter usado o filtro do celular, um Xiaomi S2, para deixar a foto em P&amp;B e colocado no modo filme. Deixo o desafio de deixar a foto original em preto e branco pelo fotophoshop e verificar se o resultado será mais próximo da original. .",
             "url": "https://awarischool.github.io/photo-colorization/casamento/datascience/2020/08/07/melhores-momentosv3.html",
@@ -468,7 +479,7 @@
     
   
     
-        ,"post49": {
+        ,"post50": {
             "title": "Ellie's pic for fans",
             "content": ". deoldify .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as,/sorvete/2020/08/06/ellie-the-last-of-us.html",
@@ -479,7 +490,7 @@
     
   
     
-        ,"post50": {
+        ,"post51": {
             "title": "Meninos no parque da cidade",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as/domingo/parque/2020/08/05/meninos_no_parque.html",
@@ -490,7 +501,7 @@
     
   
     
-        ,"post51": {
+        ,"post52": {
             "title": "Elis Regina e Adoniran Barbosa na Padaria Real, São Paulo",
             "content": ". Fonte: Cultura Estadão . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/hub/checkpoints/resnet101-5d3b4d8f.pth . Done! .",
             "url": "https://awarischool.github.io/photo-colorization/musica/mpb/2020/08/04/Elis-Regina-E-Adoniran-Barbosa.html",
@@ -501,7 +512,7 @@
     
   
     
-        ,"post52": {
+        ,"post53": {
             "title": "crianças tomando sorvete no verão de Nova Iorque",
             "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-08-03 22:09:48-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-08-03 22:09:48 (49.5 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from google.colab import drive drive.mount(&#39;/content/drive&#39;) . deoldify . from deoldify_wrapper import DeOldify .",
             "url": "https://awarischool.github.io/photo-colorization/crian%C3%A7as,/sorvete/2020/08/03/post_no_blog.html",
@@ -512,7 +523,7 @@
     
   
     
-        ,"post53": {
+        ,"post54": {
             "title": "Fotos antigas de futebol",
             "content": ". Futebol no s&#233;culo 19 . Pode-se notar que o esporte era muito diferente na &#233;poca... . Fonte da foto: Desconhecida. Obtida no blog talksport | . Fergus Suter . Nascido na Esc&#243;cia em 1857, Fergus &#233; considerado o primeiro jogador profissional de futebol da hist&#243;ria. . Foto tirada entre 1880 e 1889. . | Fonte da foto: Desconhecida. Obtida na wikipedia . | . Friedenreich . J&#225; no Brasil, uma das primeiras estrelas do futebol foi Friedenreich (&#224; esquerda na foto, ao lado do palmeirense Heitor). . Foto tirada em 1931, quando Friedenreich foi campeão paulista pelo São Paulo . | Fonte da foto: Gazeta Esportiva. Obtida em Tardes de pacaembu . | . Sele&#231;&#227;o Brasileira . Foto mostrando a sele&#231;&#227;o campe&#227; do mundo em 1958. Pel&#233; est&#225; agachado ao centro. . Fonte da foto: Arquivo CBF. Obtida no Site da CBF | . Gordon Banks . Considerado um dos maiores goleiros da hist&#243;ria, Banks aparece na foto agarrando um cachorro que invadiu o campo em 1965. . Fonte da foto: Getty images. Obtida do telegraph | .",
             "url": "https://awarischool.github.io/photo-colorization/futebol/2020/08/03/post_futebol.html",
@@ -523,7 +534,7 @@
     
   
     
-        ,"post54": {
+        ,"post55": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | . !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-07-28 00:07:33-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-07-28 00:07:33 (63.2 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify . deo = DeOldify() . Initializing Colorizer . /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:442: UserWarning: Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning. warn(&#34;Your training set is empty. If this is by design, pass `ignore_empty=True` to remove this warning.&#34;) /usr/local/lib/python3.6/dist-packages/fastai/data_block.py:445: UserWarning: Your validation set is empty. If this is by design, use `split_none()` or pass `ignore_empty=True` when labelling to remove this warning. or pass `ignore_empty=True` when labelling to remove this warning.&#34;&#34;&#34;) Downloading: &#34;https://download.pytorch.org/models/resnet101-5d3b4d8f.pth&#34; to /root/.cache/torch/checkpoints/resnet101-5d3b4d8f.pth . Done! . url = &#39;https://i.redd.it/57ed044lifd51.jpg&#39; deo.colorize(url) .",
             "url": "https://awarischool.github.io/photo-colorization/2020/08/03/post-criancas-sorvete.html",
@@ -534,7 +545,7 @@
     
   
     
-        ,"post55": {
+        ,"post56": {
             "title": "Modern Times (1936)",
             "content": "Fonte da imagem | .",
             "url": "https://awarischool.github.io/photo-colorization/movie/charlie-chaplin/2020/08/03/modern-times.html",
@@ -545,7 +556,7 @@
     
   
     
-        ,"post56": {
+        ,"post57": {
             "title": "São Paulo",
             "content": ". Fonte da Imagem: link text | .",
             "url": "https://awarischool.github.io/photo-colorization/fastpages/s%C3%A3o%20paulo/copan/2020/08/03/edificio-cosan-sp.html",
@@ -556,7 +567,7 @@
     
   
     
-        ,"post57": {
+        ,"post58": {
             "title": "Crise de 1929",
             "content": ".",
             "url": "https://awarischool.github.io/photo-colorization/finan%C3%A7as/crise-economica/2020/08/03/crise-de-1929.html",
@@ -567,7 +578,7 @@
     
   
     
-        ,"post58": {
+        ,"post59": {
             "title": "Crianças tomando sorvete no verão de Nova Iorque",
             "content": ". Fonte da imagem: link | .",
             "url": "https://awarischool.github.io/photo-colorization/criancas/sorvete/nova-iorque/2020/08/03/criancas-tomando-sorvete-versao-2.html",
@@ -578,7 +589,7 @@
     
   
     
-        ,"post59": {
+        ,"post60": {
             "title": "Guerra do Contestado (22 de outubro de 1912 - Agosto de 1916)",
             "content": "O trem acelerou o processo de desmatamento do Contestado e foi o ponta-pé inicial para a guerra. Além dos 15 quilômetros de terras de cada lado da ferrovia, que a empresa Lumber ganhou do governo, comprou ainda uma área de 180 mil hectares de terra para cortar a madeira. Uma área, em termos de comparação, equivalente ao Parque Nacional do Iguaçu. Foto por Claro Jansson (1877-1954) - Fonte. | . Forças legais defendendo a Serraria Lumber, em Três Barras. A Lumber fez barricadas para proteger a maior fábrica da América do Sul contra os sertanejos - Fonte. | . O messias. Conhecido como José Maria ou José Maria de Santo Agostinho, era um místico brasileiro do Estado de Santa Catarina. Em 1911, começou a pregar contra o Estado Brasileiro. José Maria foi morto em 22 de outubro de 1912 quando as suas forças rebeldes lutaram contra os militares em Banhado Grande. Porém a batalha resultou numa vitória para os seus seguidores, que declararam uma &quot;guerra santa&quot; (Guerra do Contestado) e acreditavam que ele iria ressuscitar. - Fonte. | . Guerra com música. Em Ouro Verde, 1917, Sertanejos, com suas armas, violão e sanfona. Foto por Claro Jansson (1877-1954) - Fonte. | . Um olhar para o passado. Em Três Barras, a serraria continuou sua rotina ainda por muitos anos, deixando para trás os tempos em que seus seguranças eram treinados, com armamentos, para se defender dos sertanejos que ameaçam queimar suas instalações. Foto por Claro Jansson (1877-1954) - Fonte. | .",
             "url": "https://awarischool.github.io/photo-colorization/guerra/hist%C3%B3ria%20do%20brasil/2020/08/03/Guerra-do-Contestado.html",
@@ -589,7 +600,7 @@
     
   
     
-        ,"post60": {
+        ,"post61": {
             "title": "Ancient Trees",
             "content": "Ancient Trees: Standing firm amidst life&#39;s storms . Source: Bored Panda | .",
             "url": "https://awarischool.github.io/photo-colorization/boredpanda/ancienttrees/2020/07/31/colorizing-ancient-trees.html",
@@ -600,7 +611,7 @@
     
   
     
-        ,"post61": {
+        ,"post62": {
             "title": "Escaping",
             "content": "Example of Image from Reddit (TheWayWeWere) . Source of the Image | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/example-reddit-new.html",
@@ -611,7 +622,7 @@
     
   
     
-        ,"post62": {
+        ,"post63": {
             "title": "Pre-1920s",
             "content": "Example of image from Reddit (TheWayWeWere) . Source | .",
             "url": "https://awarischool.github.io/photo-colorization/reddit/thewaywewere/2020/07/28/blogpost-task.html",
@@ -622,7 +633,7 @@
     
   
     
-        ,"post63": {
+        ,"post64": {
             "title": "Transforming Dalí",
             "content": "This image was found on Pinterest! . Source | . For my first introduction to data science, we reconstructed a black and white image into a colored one. We took Jason Antic&#39;s De-Oldify code which is a deep learning based project for restoring old images. In case you&#39;re not familiar with deep learning, it is a field within machine learning which mimics the human brain. Deep learning is the creation of a multi neural network architecture that is trained with millions of data points. This exercise demonstrates a fantastic application of the power of using deep learning. . Dal&#237; . The caption for this image is &quot;Dalí dans l&#39;eau, Port-Lligat (Jean Dieuzaide, 1953)&quot; which translates to Dalí in the water, Port-Lligat. I&#39;d say that the colorization has been done very well. The water is a beautiful blue - typical of what you would find in the Mediterranean Sea. I wonder if the flowers were actually this soft pink color. .",
             "url": "https://awarischool.github.io/photo-colorization/tumblr/pinterest/dali/2020/07/28/Colorizing-Dali.html",
